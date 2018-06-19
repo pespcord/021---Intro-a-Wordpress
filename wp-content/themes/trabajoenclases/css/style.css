@@ -1,0 +1,129 @@
+
+.jumbotron {
+padding-top: 0;
+}
+
+	.bg-img-header {
+	background-image: url(../images/bg.jpg);
+	background-repeat: no-repeat;
+}
+.navbar-brand img{
+	width: 8em;
+}
+.navbar {
+   background-color: transparent;
+   background: transparent;
+   border-color: transparent;
+
+}
+.navbar2 {
+   position: absolute;
+    left: auto;
+    right: auto;
+    width: 100%;
+}
+
+.navbar li { color: #000 } 
+
+.header h1 {
+	color: #fff;
+    font-size: 3em;
+    font-weight: lighter;
+    text-transform: uppercase;
+    line-height: 1.4em;
+    text-align: center;
+}
+.header {
+	text-align: center;
+}
+.btn-primary {
+	padding: 1em;
+}
+.verde {
+	background-image: linear-gradient(to bottom,#5bb85c 0,#5bb85c 100%);
+	border-color: #5bb85c;
+}
+.verde:hover {
+	background-color: #479248;
+	border-color: #366737;
+	background-position: 0;
+}
+.header p {
+	color: #fff;
+	font-size: 1.2em;
+	padding-top: 3em;
+}
+.seccion2 {
+	text-align: center;
+    padding: 2em;
+}
+.seccion3 {
+	text-align: center;
+    padding: 5em 0;
+}
+.seccion3 h2 {
+	font-size: 1.4em;
+	text-transform: uppercase;
+
+} 
+.seccion2 h2 {
+	font-size: 1.4em;
+	text-transform: uppercase;
+
+} 
+.seccion2 p {
+	font-size: 0.9em;
+
+}
+/*.carousel.slide {
+	 max-width: 50%;
+    margin: 0 auto;
+}*/
+.carrusel-foto-1 {
+	background-image: url(../images/viewing-gallery-for-happy-people.png);
+
+}
+.carrusel-foto-2 {
+	background-image: url(../images/bg22.jpeg);
+}
+.carrusel-foto-1, .carrusel-foto-2 {
+	min-height: 600px;
+	background-size: cover;
+	width: 100%;
+}
+.padding0 {
+	padding: 0;
+}
+.gris {
+	background-color: #eaeaea;
+	border: 0.8px solid #a9a9a9;
+}
+.padding {
+	padding-top: 2em;
+}
+.footer-landing p{
+    font-size: 0.9em;
+    margin-bottom: 0;
+}
+.footer-landing h3{
+    font-size: 1em;
+    font-weight: bold;
+
+}
+.email {
+	margin-top: 1em;
+}
+.bg-footer {
+	background-color: #000;
+	padding: 2em 0;
+    margin-top: 2em;
+
+
+}
+.bg-footer p {
+	color: #fff;
+	text-transform: uppercase;
+	font-weight: lighter;
+	font-kerning: auto;
+
+}
